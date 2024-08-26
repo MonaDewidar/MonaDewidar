@@ -15,7 +15,7 @@
 ##
 
 <div>
- 	<a href="https://[www.twitch.tv/brunonaozera](https://t.me/MonaDewidar)" target="_blank">
+ 	<a href="(https://t.me/MonaDewidar)" target="_blank">
     <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
   </a>
   <a href="https://t.me/BrunoNao" target="_blank">
