@@ -2,20 +2,18 @@
 
 **Welcome to my github profile!**
 
-![](https://komarev.com/ghpvc/?username=BrunoCaputo&style=plastic&label=PROFILE+VIEWS)
-
 ### About me
 
 - Egyptian
 
-<div align="center">
-  <a href="https://github.com/BrunoCaputo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCaputo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCaputo&layout=compact&langs_count=7&theme=algolia"/>
-</div>
+ <!-- <div align="center">
+<!--   <a href="https://github.com/BrunoCaputo"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunoCaputo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoCaputo&layout=compact&langs_count=7&theme=algolia"/> -->
+<!-- </div> -->
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="BrunoCaputo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="MonaDewidar-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="BrunoCaputo-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="BrunoCaputo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="BrunoCaputo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
