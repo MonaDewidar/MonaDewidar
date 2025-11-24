@@ -1,80 +1,22 @@
-# 👋 Hi, I'm Mona!
+<h1 align="center">Hi 👋, I'm Mona Dewidar</h1>
+<h3 align="center">A passionate Python developer, Machine Learning enthusiast, and competitive programmer. I love solving challenging problems, building practical projects, and exploring the world of AI and data science.</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&color=6DA8F7&center=true&vCenter=true&lines=Machine+Learning+Enthusiast;Python+Developer;Always+Learning+%26+Building" />
+- 🔭 I’m currently working on **Machine Learning projects**
+
+- 🌱 I’m currently learning **ML basics & Deep learning**
+
+- 📫 How to reach me **monadewidar02@gmail.com**
+
+- ⚡ Fun fact **I am a Potterhead**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mona-dewidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mona-dewidar" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/monadewidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="monadewidar" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/monadewidar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="monadewidar" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://quasar.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.quasar.dev/logo/svg/quasar-logo.svg" alt="quasar" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="55%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" width="55%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" width="40%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="55%" />
-</p>
-
-Welcome to my GitHub profile! I'm a passionate learner who enjoys building practical projects, especially in **Machine Learning**, **Python**, and **data-driven applications**.
-
-I love exploring new technologies, turning ideas into real projects, and improving step by step. My goal is to build clean, meaningful, and well-structured code that helps me grow as a developer.
-
----
-
-## ✨ About Me
-
-🌟 *"Lumos — I shine curiosity on every problem I solve."* 🌟
-
-I'm a developer passionate about **Machine Learning**, **Python**, and building real-world projects that make me grow technically and creatively. I focus on writing clean, meaningful code and always push myself to improve.
-
-* 🚀 Exploring ML models & data science concepts
-* 🤖 Building hands-on projects like **Rock vs Mine Prediction**
-* 📚 Expanding skills in Python, ML algorithms, and deployment
-* 🎯 Goal: Become strong in AI, ML, and software fundamentals
-
----
-
-## 🚀 Skills
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img src="https://img.shields.io/badge/Machine%20Learning-9cf?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img
-- **Python** (NumPy, Pandas, Scikit-learn)
-- **Machine Learning basics** (training, evaluating, deploying models)
-- **Data analysis & visualization**
-- **Git & GitHub workflow**
-- Jupyter Notebook
-
----
-
-## 📌 Featured Projects
-
-### 🔹 Rock vs Mine Prediction
-
-A machine learning classifier that predicts whether a sonar signal represents a **rock** or a **mine**.
-
-### 🔹 Add more projects soon...
-
-I'm currently working on adding more ML and Python projects to show my learning journey.
-
----
-
-## 📫 Connect With Me
-
-Feel free to reach out or explore my work.
-
-* 💼 LinkedIn: *Add your link here*
-* 📧 Email: *Add your email here*
-
----
-
-⭐ *Thanks for visiting my GitHub! More projects are coming, so stay tuned!*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=monadewidar&show_icons=true&locale=en&layout=compact" alt="monadewidar" /></p>
